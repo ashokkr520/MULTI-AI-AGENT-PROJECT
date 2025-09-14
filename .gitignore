@@ -1,0 +1,6 @@
+venv/
+MULTI_AI_AGENT.egg-info/
+logs/
+.env  #Because this contains sensitive information
+
+
